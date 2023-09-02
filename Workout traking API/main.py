@@ -8,10 +8,10 @@ WEIGHT_KG = "60"
 HEIGHT = "160.5"  # entered random height in cm
 AGE = "50"
 
-APP_ID = "896da3ff"
-API_KEY = "a1f60d32f6f505f91e47fd24061818c5"
+APP_ID = "Add your workout API ID"
+API_KEY = "Add your workout API Key"
 
-exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
+exercise_endpoint = "put the exercise end point"
 
 exercise_input = input("Tell which exercise you did today?: ")
 
